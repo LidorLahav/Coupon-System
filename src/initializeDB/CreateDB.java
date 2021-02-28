@@ -21,7 +21,7 @@ public class CreateDB {
 	 */
 	public static void create() throws CouponSystemException {
 		String url = "jdbc:mysql://localhost:3306?serverTimezone=Israel";
-		String user = "irit13";
+		String user = "lidor";
 		String password = "1234";
 
 		try (Connection con = DriverManager.getConnection(url, user, password);) {
