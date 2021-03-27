@@ -1,4 +1,4 @@
-**About**
+## About
 
 **Coupon management system** allows companies to generate coupons as part of advertising campaigns
 And marketing that they sustain.
@@ -13,7 +13,7 @@ Access to the system is divided into three types of Clients:
 3. Customer - Purchasing coupons.
 
 
-**Execution stages**
+## Execution stages
 
   Part 1 - Setting up the database and building the tables.
   
@@ -30,3 +30,9 @@ Access to the system is divided into three types of Clients:
   Part 7 - Building a Daily Job to delete expired coupons from the System.
   
   Part 8 - Building the testing classes to demonstrate the system's capabilities, and operating it from the main.
+
+
+## Database
+
+
+![Database structure](https://github.com/LidorLahav/Coupon-System/blob/master/Images/Database-structure.png?raw=true)
