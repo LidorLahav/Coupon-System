@@ -35,4 +35,4 @@ Access to the system is divided into three types of Clients:
 ## Database
 
 
-![Database structure](https://github.com/LidorLahav/Coupon-System/blob/master/Images/Database-structure.png?raw=true)
+![Database structure](https://github.com/LidorLahav/Coupon-System/blob/master/Images/Database-structure.jpeg?raw=true)
